@@ -1,4 +1,4 @@
-# Goals App - Technical Documentation
+# Ava - Technical Documentation
 
 ## Table of Contents
 1. [Technology Stack](#technology-stack)
@@ -264,7 +264,7 @@
 
 ### Base URL
 - **Development**: `http://localhost:3000/api`
-- **Production**: `https://api.goalsapp.com/api` (planned)
+- **Production**: `https://api.ava.com/api` (planned)
 
 ### Authentication Endpoints
 
